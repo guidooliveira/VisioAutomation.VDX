@@ -1,8 +1,8 @@
-using SXL=System.Xml.Linq;
-using VisioAutomation.VDX.Internal.Extensions;
+using SXL = System.Xml.Linq;
+using VisioAutomation.Power.Internal.Extensions;
 
 
-namespace VisioAutomation.VDX
+namespace VisioAutomation.Power
 {
     internal class VDXWriter
     {
