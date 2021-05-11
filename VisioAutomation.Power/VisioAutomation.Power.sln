@@ -3,18 +3,34 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisioAutomation.Power", "VisioAutomation.Power\VisioAutomation.Power.csproj", "{6E6B3F09-2327-4D69-A286-B3A428DFFE78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisioAutomation.Power", "VisioAutomation.Power\VisioAutomation.Power.csproj", "{6E6B3F09-2327-4D69-A286-B3A428DFFE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSVisio", "PSVisio\PSVisio.csproj", "{1D8BED24-637B-4652-9CED-24C3A89A4940}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{6E6B3F09-2327-4D69-A286-B3A428DFFE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6E6B3F09-2327-4D69-A286-B3A428DFFE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6B3F09-2327-4D69-A286-B3A428DFFE78}.Debug|x64.ActiveCfg = Debug|x64
+		{6E6B3F09-2327-4D69-A286-B3A428DFFE78}.Debug|x64.Build.0 = Debug|x64
 		{6E6B3F09-2327-4D69-A286-B3A428DFFE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E6B3F09-2327-4D69-A286-B3A428DFFE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E6B3F09-2327-4D69-A286-B3A428DFFE78}.Release|x64.ActiveCfg = Release|x64
+		{6E6B3F09-2327-4D69-A286-B3A428DFFE78}.Release|x64.Build.0 = Release|x64
+		{1D8BED24-637B-4652-9CED-24C3A89A4940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8BED24-637B-4652-9CED-24C3A89A4940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8BED24-637B-4652-9CED-24C3A89A4940}.Debug|x64.ActiveCfg = Debug|x64
+		{1D8BED24-637B-4652-9CED-24C3A89A4940}.Debug|x64.Build.0 = Debug|x64
+		{1D8BED24-637B-4652-9CED-24C3A89A4940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8BED24-637B-4652-9CED-24C3A89A4940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8BED24-637B-4652-9CED-24C3A89A4940}.Release|x64.ActiveCfg = Release|x64
+		{1D8BED24-637B-4652-9CED-24C3A89A4940}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
