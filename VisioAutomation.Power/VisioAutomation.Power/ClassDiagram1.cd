@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VisioAutomation.Power.Properties.Resources" Collapsed="true">
+    <Position X="34.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAABEAAAAQAAAAAAAgAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.ColorEntry" Collapsed="true">
+    <Position X="27.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Elements\ColorEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.Connect" Collapsed="true">
+    <Position X="29" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAQBIAAAAABAAQQ=</HashCode>
+      <FileName>Elements\Connect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.CustomProp" Collapsed="true">
+    <Position X="34.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAEAAAgQCAAAAACCSAAAgAACAEAQAgAAFAAAA=</HashCode>
+      <FileName>Elements\CustomProp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.CustomProps" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAABAAAAgAAAQAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Elements\CustomProps.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.DocumentWindow">
+    <Position X="24.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQIAAAAABEQAAAAYAAAAAMAAAAQAAACAAAAAABAAAI=</HashCode>
+      <FileName>Elements\DocumentWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.Drawing">
+    <Position X="16" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQIAAAAAAAAAgAAAICgAAAAAAAwAEABAIgAAABAA=</HashCode>
+      <FileName>Elements\Drawing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.Face">
+    <Position X="18.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Elements\Face.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.Hyperlink" Collapsed="true">
+    <Position X="25.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAgAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Elements\Hyperlink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.Layer">
+    <Position X="21" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAgEAAAAAAAAEBAAIAQEAAgAAAAoAAEAgABEAAA=</HashCode>
+      <FileName>Elements\Layer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.Node">
+    <Position X="11.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Elements\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.Page">
+    <Position X="3.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAACAAAAgAAAAAAAAAUAEAECAAAEgAAAAIBAAAA=</HashCode>
+      <FileName>Elements\Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.Shape">
+    <Position X="1.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAICBAAhCAgYkgCIJEBAAgQgAgAASBAYAAgACBBJghA=</HashCode>
+      <FileName>Elements\Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.StencilWindow">
+    <Position X="22.25" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIABAAAAAAAAAAAACAAAAAAAABAA=</HashCode>
+      <FileName>Elements\StencilWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.Text" Collapsed="true">
+    <Position X="27.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Elements\Text.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.TextRun" Collapsed="true">
+    <Position X="30.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAggAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Elements\TextRun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Elements.Window">
+    <Position X="23.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAgAAAAABAAEAAEAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Elements\Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.Line" Collapsed="true">
+    <Position X="30.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAQAAAAAAAAAEAAQACCAAAAAAAAAgAhAIAA=</HashCode>
+      <FileName>Elements\Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.Char" Collapsed="true">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAQAAAAAAOkQAQAAAAAACAAAGgAEAABAAAwAJCAAE=</HashCode>
+      <FileName>Sections\Char.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.DocumentProperties" Collapsed="true">
+    <Position X="27.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAQAAAAQAAAAAAAAAAAAAAEEAAABAAQQAA=</HashCode>
+      <FileName>Sections\DocumentProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.Ellipse">
+    <Position X="26.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApAFAYAA=</HashCode>
+      <FileName>Sections\Ellipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.EllipticalArcTo">
+    <Position X="33.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApAFAYAA=</HashCode>
+      <FileName>Sections\EllipticalArcTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.Event" Collapsed="true">
+    <Position X="29" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAQEQAAAAAAAAAAAAAAAABAgAAABAAAA=</HashCode>
+      <FileName>Sections\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.EventX" Collapsed="true">
+    <Position X="30.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Sections\EventX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.Fill" Collapsed="true">
+    <Position X="32.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAggAAAAACggAAQSAAAJADAMAAAAABAAAA=</HashCode>
+      <FileName>Sections\Fill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.Geom" Collapsed="true">
+    <Position X="34.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAEAAAQAAAAAAQAAQAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Sections\Geom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.GeomArcTo">
+    <Position X="42.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAYAA=</HashCode>
+      <FileName>Sections\GeomArcTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.GeomRow">
+    <Position X="36.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Sections\GeomRow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.InfiniteLine">
+    <Position X="47" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAFAYAA=</HashCode>
+      <FileName>Sections\InfiniteLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.Layout" Collapsed="true">
+    <Position X="29" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAQAAAAAAAAAAAAAgAAAABIBGABhAAAgRAAAA=</HashCode>
+      <FileName>Sections\Layout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.LineTo">
+    <Position X="29" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAYAA=</HashCode>
+      <FileName>Sections\LineTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.Misc" Collapsed="true">
+    <Position X="34.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAIAIAEAAAgAAAAAAABAACAhgAAACAEAgASAIBBAAA=</HashCode>
+      <FileName>Sections\Misc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.MoveTo">
+    <Position X="38" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAYAA=</HashCode>
+      <FileName>Sections\MoveTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.NURBSTo">
+    <Position X="40.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApgFAYAA=</HashCode>
+      <FileName>Sections\NURBSTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.PageLayout" Collapsed="true">
+    <Position X="25.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAARAAAIAAAgAQEABkABwAAIB4CEAAAAABACAw=</HashCode>
+      <FileName>Sections\PageLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.PageProperties" Collapsed="true">
+    <Position X="27.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAQAAAABAIACAAAAQBEAQAAAAAARCAAAAABAAAA=</HashCode>
+      <FileName>Sections\PageProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.ParagraphFormat" Collapsed="true">
+    <Position X="29" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAhAAAAAAAAEAwAAAAAGAAAAABAAAAQAAAAgDQAAI=</HashCode>
+      <FileName>Sections\ParagraphFormat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.PolyLineTo">
+    <Position X="44.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAYAA=</HashCode>
+      <FileName>Sections\PolyLineTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.PrintProperties" Collapsed="true">
+    <Position X="30.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAQAQAAAABAAAoGAIAAAAAAgAAACACAAAAAARBAAQ=</HashCode>
+      <FileName>Sections\PrintProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.Protection" Collapsed="true">
+    <Position X="32.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkAgBAgQEEAAAAgAAEAAEIkAEgAAAAAAQABQAAA=</HashCode>
+      <FileName>Sections\Protection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.SplineKnot">
+    <Position X="31.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAYAA=</HashCode>
+      <FileName>Sections\SplineKnot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.SplineStart">
+    <Position X="35.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApAFAYAA=</HashCode>
+      <FileName>Sections\SplineStart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.TextBlock" Collapsed="true">
+    <Position X="29" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAABAAgIAAAgAAAAACAAAAAABAgAAgBAAAA=</HashCode>
+      <FileName>Sections\TextBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.TextXForm" Collapsed="true">
+    <Position X="32.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAwAAAAAAAEAAAAAAAAAAAEADAABAAAA=</HashCode>
+      <FileName>Sections\TextXForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.XForm" Collapsed="true">
+    <Position X="25.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAABAAAAwAgEAAAAEAAAAAAAAAAAEADAABAAAA=</HashCode>
+      <FileName>Sections\XForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Sections.XForm1D" Collapsed="true">
+    <Position X="27.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAAAAAAAAAAAAAAAEAAAAAAAAABAAAA=</HashCode>
+      <FileName>Sections\XForm1D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Template" Collapsed="true">
+    <Position X="25.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Elements\Template.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.FaceList">
+    <Position X="13" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FaceList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.LayerList">
+    <Position X="6.25" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LayerList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.MasterMetadata" Collapsed="true">
+    <Position X="32.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQEAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>MasterMetdata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.NamedNodeList&lt;T&gt;">
+    <Position X="10" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAACAEACAgAAAQAAABAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>NamedNodeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.PageList">
+    <Position X="8.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PageList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeList">
+    <Position X="10.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShapeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.VDXWriter" Collapsed="true">
+    <Position X="34.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VDXWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Internal.Constants" Collapsed="true">
+    <Position X="30.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Internal\Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Internal.IDGenerator" Collapsed="true">
+    <Position X="27.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Internal\IDGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Internal.XMLUtil" Collapsed="true">
+    <Position X="30.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Internal\XMLUtil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.Internal.Extensions.XMLExtensions" Collapsed="true">
+    <Position X="29" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAQgAARCEAAAAAAAAAIACAA=</HashCode>
+      <FileName>Internal\XmlExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.AngleCell">
+    <Position X="20" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\AngleCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.BoolCell">
+    <Position X="4.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\BoolCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.CellBase">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAgQEAAAAAABAREAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\CellBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.CellScalar&lt;T&gt;">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgQAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\CellScalar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.ColorCell">
+    <Position X="11" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\ColorCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.Converter" Collapsed="true">
+    <Position X="32.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\Converter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.DistanceCell">
+    <Position X="13.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\DistanceCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.DoubleCell">
+    <Position X="15.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\DoubleCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.EnumCell&lt;T&gt;">
+    <Position X="17.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\EnumCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.IntCell">
+    <Position X="22.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\IntCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.PointCell">
+    <Position X="6.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\PointCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.StringCell" Collapsed="true">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgQAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\StringCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisioAutomation.Power.ShapeSheet.TransparencyCell">
+    <Position X="8.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapesheet\TransparencyCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="VisioAutomation.Power.SnapType" Collapsed="true">
+    <Position X="29" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBACgQAAAAAAAIAAQCAAAAABIAAAAAAEAAAEAAAAAA=</HashCode>
+      <FileName>Enums\SnapType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.TextType" Collapsed="true">
+    <Position X="30.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\TextType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.CalendarType" Collapsed="true">
+    <Position X="25.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgAAABAAAAEAQAIAIgAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Enums\CalendarType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.CharCase" Collapsed="true">
+    <Position X="29" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAUAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\CharCase.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.CharStyle" Collapsed="true">
+    <Position X="30.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAoAAAAAAAAAAAAAAAAAAAAEAAAE=</HashCode>
+      <FileName>Enums\CharStyle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.ConFixedCode" Collapsed="true">
+    <Position X="32.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAgAAAAAAAAAAAQAAAACAAgAAAAAAIAAgA=</HashCode>
+      <FileName>Enums\ConFixedCode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.ConLineJumpCode" Collapsed="true">
+    <Position X="34.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAEAIAAAAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Enums\ConLineJumpCode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.ConLineJumpDirX" Collapsed="true">
+    <Position X="25.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Enums\ConLineJumpDirX.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.ConLineJumpDirY" Collapsed="true">
+    <Position X="27.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAACACAAAAAAAA=</HashCode>
+      <FileName>Enums\ConLineJumpDirY.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.ConLineJumpStyle" Collapsed="true">
+    <Position X="29" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAQAAAAAABAAAAMBAAAAAAAIAAIAAwAAAAAAA=</HashCode>
+      <FileName>Enums\ConLineJumpStyle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.ConLineRouteExt" Collapsed="true">
+    <Position X="30.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAIAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\ConLineRouteExt.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.CustomPropType" Collapsed="true">
+    <Position X="32.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQACAAAAQEBAAAAACIAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Enums\CustomPropType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.GlueType" Collapsed="true">
+    <Position X="34.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAIIAAQAAAAAAAAAAAAAAEAAAAAAAgAA=</HashCode>
+      <FileName>Enums\GlueType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.PageShapeSplit" Collapsed="true">
+    <Position X="25.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Enums\PageShapeSplit.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.ParaHorizontalAlignment" Collapsed="true">
+    <Position X="27.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAACACAAAAIAAA=</HashCode>
+      <FileName>Enums\ParaHorizontalAlignment.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.PlaceFlip" Collapsed="true">
+    <Position X="29" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAEAAAAAAAAAAAAAEAYAA=</HashCode>
+      <FileName>Enums\PlaceFlip.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.RouteStyle" Collapsed="true">
+    <Position X="30.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICACAAAREAAAhAAAAAEAICAAAAAQBBAAIAgQIgZABAA=</HashCode>
+      <FileName>Enums\RouteStyle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.ShapeFixedCodeType" Collapsed="true">
+    <Position X="32.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAAAAAAAAAAAEAACAAgAAAAAAAAAAAAAAgEAAAA=</HashCode>
+      <FileName>Enums\ShapeFixedCodeType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.ShapePlowCodeType" Collapsed="true">
+    <Position X="34.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAIAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Enums\ShapePlowCodeType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.ShapeSplittable" Collapsed="true">
+    <Position X="25.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Enums\ShapeSplittable.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.Enums.SnapExtensionsType" Collapsed="true">
+    <Position X="27.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAUgAAAAQAAgCAAIAAAAAAAiAIAAgABCAAAAAAA=</HashCode>
+      <FileName>Enums\SnapExtensionsType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisioAutomation.Power.ShapeSheet.CellUnit" Collapsed="true">
+    <Position X="27.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgIAAAEAAAAAAAAAAAAAAAAAAACEAAAA=</HashCode>
+      <FileName>Shapesheet\CellUnit.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
